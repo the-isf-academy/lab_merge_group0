@@ -2,10 +2,10 @@ from all_riddles import riddles_json
 
 print("hiii") 
 def main():
-    riddles_list = riddles_json['riddles']
+    riddles_list = riddles_json['riddle']
 
     for riddle in riddles_list:
-        print(riddle["question"])
+        print(riddle["id"])
 
 
 
