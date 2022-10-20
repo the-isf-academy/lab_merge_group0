@@ -1,6 +1,6 @@
 from all_riddles import riddles_json
 
-print("hi")
+print("hii") 
 def main():
     riddles_list = riddles_json['riddles']
 
