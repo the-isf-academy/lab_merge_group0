@@ -8,5 +8,6 @@ riddles_json = {"riddles":
     {"correct":8,"guesses":14,"id":50,"question":"Is Ocean in the Ocean?"},
     {"correct":14,"guesses":26,"id":40,"question":"angus"},
     {"correct":0,"guesses":1,"id":63,"question":"I am an odd number. Take away a letter and I become evenen. What number am I?"}
+    {"correct":0,"guesses":1,"id":2,"question":"What's a question?"}
     ]
 }
